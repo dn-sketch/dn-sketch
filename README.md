@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me search me
+- 📫 How to reach me! search me....
 
 <!---
 dn-sketch/dn-sketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
